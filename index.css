@@ -7,7 +7,7 @@
 .clock{
     width: 100vw;
     height: 100vh;
-    background-image: url(clockbg.png);
+    background-image: url(clockbg.jpg);
     background-position: center;
     background-size: cover;
 }
